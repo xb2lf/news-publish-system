@@ -1,3 +1,10 @@
+<!--
+ * @Author: {baixiao}
+ * @Date: 2022-10-21 20:58:56
+ * @LastEditors: {baixiao}
+ * @LastEditTime: 2022-10-22 16:26:17
+ * @Description: 
+-->
 # 全球新闻发布管理系统
 
 该项目是一套管理系统，通过不同的账号控制权限、路由以及新闻审核的各个环境
@@ -20,7 +27,7 @@
 
 ### 安装`json-server`
 
-> npm i json-server
+> npm i json-server -g
 
 ### 使用`json-server`
 
