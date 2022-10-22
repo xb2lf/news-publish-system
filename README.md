@@ -2,7 +2,7 @@
  * @Author: {baixiao}
  * @Date: 2022-10-21 20:58:56
  * @LastEditors: {baixiao}
- * @LastEditTime: 2022-10-22 16:26:17
+ * @LastEditTime: 2022-10-22 17:01:44
  * @Description: 
 -->
 # 全球新闻发布管理系统
@@ -32,9 +32,11 @@
 ### 使用`json-server`
 
 > json-server --watch .\db.json --port 5000
+
 ## 其他配置
 
 其他一些基本配置
+
 ### 默认账号
 
 - 用户名: admin
